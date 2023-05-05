@@ -113,7 +113,7 @@ export default function Home() {
               <div className="relative bg-gradient-to-br from-gray-100 via-gray-50 to-white p-5 flex justify-center gap-2 sm:gap-11 rounded-md w-1/2 text-[10px] xs:text-sm md:text-xl lg:text-2xl h-28 sm:h-36 md:h-48 items-end mt-20">
                 <div className="w-3/5 bg-black px-2 py-5 absolute -top-10 text-white text-center rounded-md shadow-sm leading-snug">
                   Pengumuman akan dibukan pada <br />
-                  <span className="font-semibold">06-05-2023</span>
+                  <span className="font-semibold">05-05-2023</span>
                 </div>
                 <CountDownTimer duration={duration} />
               </div>
