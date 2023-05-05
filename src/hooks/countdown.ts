@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import moment from "moment";
 
 const useCountdown = () => {
-  const targetTime = moment("2023-05-05");
+  const targetTime = moment("2023-05-06");
 
   const [currentTime, setCurrentTime] = useState(moment());
 
